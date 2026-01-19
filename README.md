@@ -66,17 +66,21 @@ DETE:                           RODITELJI (Telegram):
 ─────                           ────────────────────
 
 1. Otvori aplikaciju
-2. Unese PIN škole
-3. Drži crveno dugme 3 sek      → Notifikacija stiže
+   (PIN se unosi samo prvi put,
+    posle app pamti)
+2. Drži crveno dugme 3 sek      → Notifikacija stiže
 
-                                4. Marko vidi: "ALARM! Kod fontane"
-                                5. Marko klikne link → otvori app
-                                6. Marko pritisne "Preuzimam"
+                                3. Marko vidi: "ALARM! Kod fontane"
+                                4. Marko klikne link → otvori app
+                                5. Marko pritisne "Preuzimam"
 
                                    Svi vide: "Marko ide, ETA 4 min"
 
-7. Dete vidi da neko dolazi
+6. Dete u app-u vidi: "Marko ide ka tebi"
+   (real-time update, automatski)
 ```
+
+**Zašto 3 sekunde držanja?** Sprečava slučajno aktiviranje - ako slučajno dodirneš dugme, ništa se ne dešava. Moraš namerno držati.
 
 ### Za developere: Tehnički detalji (draft)
 
