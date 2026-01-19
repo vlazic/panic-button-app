@@ -241,7 +241,7 @@ Sistem beleži razloge za kasniju analizu (npr. ako neko stalno ima iste izgovor
 │                                                                             │
 │   👤 Marko Petrović                                                         │
 │   📱 +381 63 xxx xxxx                                                       │
-│   📅 Član od: Januar 2025                                                   │
+│   📅 Član od: Januar 2026                                                   │
 │                                                                             │
 │   OVOG MESECA:                                                              │
 │   ├── Smena prijavljenih:     12                                            │
@@ -371,4 +371,4 @@ Kada neko već preuzme alarm, drugi mogu kliknuti "I ja idem":
 
 ---
 
-*Dokument kreiran: Januar 2025*
+*Dokument kreiran: Januar 2026*

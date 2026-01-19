@@ -93,7 +93,7 @@ Admin panel omogućava administratorima grupe da upravljaju članovima, smenama,
 │                                                                             │
 │  OSNOVNI PODACI                                                             │
 │  📞 +381 63 123 4567                                                        │
-│  📅 Član od: 15. Januar 2025                                                │
+│  📅 Član od: 15. Januar 2026                                                │
 │  🔑 Odobrio: Admin Grupe                                                    │
 │  📊 Uloga: RESPONDER                                                        │
 │                                                                             │
@@ -177,7 +177,7 @@ Admin panel omogućava administratorima grupe da upravljaju članovima, smenama,
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  ALARM #127 - 18. Januar 2025, 14:32                                        │
+│  ALARM #127 - 18. Januar 2026, 14:32                                        │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
 │  OSNOVNI PODACI                                                             │
@@ -245,7 +245,7 @@ Admin panel omogućava administratorima grupe da upravljaju članovima, smenama,
 │                                                                             │
 │  Status: ✅ Povezano                                                        │
 │  Grupa:  "OŠ Kovačić Patrola"                                              │
-│  Od:     15. Januar 2025                                                    │
+│  Od:     15. Januar 2026                                                    │
 │                                                                             │
 │  [TEST KONEKCIJE]                                                          │
 │                                                                             │
@@ -315,4 +315,4 @@ Admin panel je optimizovan za:
 
 ---
 
-*Dokument kreiran: Januar 2025*
+*Dokument kreiran: Januar 2026*

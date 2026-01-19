@@ -225,4 +225,4 @@ U slučaju ozbiljne opasnosti - UVEK zvati 192 (policija).
 
 ---
 
-*Poslednje ažuriranje: Januar 2025*
+*Poslednje ažuriranje: Januar 2026*

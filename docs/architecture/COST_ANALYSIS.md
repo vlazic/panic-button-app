@@ -431,4 +431,4 @@ Ovaj dokument analizira troškove pokretanja Panic Button aplikacije na različi
 
 ---
 
-*Dokument kreiran: Januar 2025*
+*Dokument kreiran: Januar 2026*

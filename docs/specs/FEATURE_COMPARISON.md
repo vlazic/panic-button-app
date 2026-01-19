@@ -253,4 +253,4 @@ PoC služi da se DOKAŽE da koncept radi pre nego što se uloži više vremena u
 
 ---
 
-*Dokument kreiran: Januar 2025*
+*Dokument kreiran: Januar 2026*

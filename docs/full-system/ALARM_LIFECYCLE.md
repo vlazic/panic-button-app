@@ -497,4 +497,4 @@ T=9min   Responder 2 označio kao RESOLVED
 
 ---
 
-*Dokument kreiran: Januar 2025*
+*Dokument kreiran: Januar 2026*

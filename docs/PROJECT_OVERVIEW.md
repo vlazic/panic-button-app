@@ -226,5 +226,5 @@ Projekat je otvoren za:
 
 ---
 
-*Dokument kreiran: Januar 2025*
-*Poslednje ažuriranje: Januar 2025*
+*Dokument kreiran: Januar 2026*
+*Poslednje ažuriranje: Januar 2026*

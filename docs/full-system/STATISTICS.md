@@ -14,7 +14,7 @@ Statistike služe za:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  📊 IZVEŠTAJ: Januar 2025                              [PDF] [CSV] [PRINT]  │
+│  📊 IZVEŠTAJ: Januar 2026                              [PDF] [CSV] [PRINT]  │
 │  📍 OŠ Ivan Goran Kovačić, Beograd                                          │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
@@ -173,7 +173,7 @@ Statistike služe za:
 ══════════════════════════════════════════════════════════════════════════════
 IZVEŠTAJ O BEZBEDNOSNOJ SITUACIJI U OKOLINI
 OŠ "IVAN GORAN KOVAČIĆ", BEOGRAD
-Period: Januar 2025
+Period: Januar 2026
 ══════════════════════════════════════════════════════════════════════════════
 
 1. UVOD
@@ -314,4 +314,4 @@ export const getMonthlyStats = query({
 
 ---
 
-*Dokument kreiran: Januar 2025*
+*Dokument kreiran: Januar 2026*

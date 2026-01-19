@@ -339,4 +339,4 @@ Sistem služi kao dodatna mera koordinacije, ne kao zamena za nadležne organe.
 
 ---
 
-*Dokument kreiran: Januar 2025*
+*Dokument kreiran: Januar 2026*
